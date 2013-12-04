@@ -11,7 +11,7 @@ var count = 0; //Counter to move through the Array
 var numDays; //Number of days of information the user will be inputting, user will set this value
 var avgReceived = 0; //Average number of devices received
 var percentBroken; //Percentage of devices that are broken and will need to be replaced
-var totalReceived = 0; //Total number of devices recieved
+var totalReceived = 0; //Total number of devices received
 var totalReceivedBroken = 0; //Total number of devices received broken
 
 //Input
