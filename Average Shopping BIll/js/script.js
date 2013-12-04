@@ -8,4 +8,4 @@ totalSpent = groceryBillAmt[0] + groceryBillAmt[1] + groceryBillAmt[2] + grocery
 avgSpent = totalSpent / 5;
 
 //Display results in the console
-console.log("You have spent a total of $" + totalSpent + " on groceries over 5 weeks.  That is an average of $" + avgSpent + " per week"); 
+console.log("You have spent a total of $" + totalSpent + " on groceries over 5 weeks.  That is an average of $" + avgSpent + " per week");
