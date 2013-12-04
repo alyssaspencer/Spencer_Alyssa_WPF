@@ -17,7 +17,7 @@ lengthProducedPerYr = lengthOfItem * numProduced;//Calculates the total length p
 if(distanceToFullSail < lengthProducedPerYr)//looks to see if the distance from my house to Full Sail is shorter than the length of the item produced each year
 {
     result = true;//sets result to true
-}else//if the disance to Full Sail is more than the total length of the item it will apply the code under else
+}else//if the distance to Full Sail is more than the total length of the item it will apply the code under else
 {
     result = false;//sets result to false
 }
